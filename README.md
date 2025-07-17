@@ -1,7 +1,7 @@
 # TATA---GenAI-Powered-Data-Analytics-Job-Simulation
 # AI & Data for Credit Risk - Virtual Experience Program
 
-![Certificate](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/ifobHAoMjQs9s6bKS/gMTdCXwDdLYoXZ3wG_ifobHAoMjQs9s6bKS_qW98MhyghfX57LmkS_1752741175366_completion_certificate.pdf)
+![Certificate](https://www.linkedin.com/in/deep-332437315/overlay/1752741685602/single-media-viewer/?profileId=ACoAAE_55BYBzbbSh_3A2dAHa7bqdWDpn8-UM3M)
 
 ## 🧠 Overview
 This project was completed as part of the **Tata iQ x Geldium AI & Data for Credit Risk** Virtual Experience Program hosted on **Forage**. It simulates real-world data science and AI consulting tasks focused on identifying and managing customer credit delinquency risk.
@@ -36,7 +36,7 @@ This project was completed as part of the **Tata iQ x Geldium AI & Data for Cred
 
 ## 📄 Certificate
 Click here to view:  
-👉 [Completion Certificate (PDF)](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/ifobHAoMjQs9s6bKS/gMTdCXwDdLYoXZ3wG_ifobHAoMjQs9s6bKS_qW98MhyghfX57LmkS_1752741175366_completion_certificate.pdf)
+👉 [Completion Certificate (PDF)](https://www.linkedin.com/in/deep-332437315/overlay/1752741685602/single-media-viewer/?profileId=ACoAAE_55BYBzbbSh_3A2dAHa7bqdWDpn8-UM3M)
 
 ## 👨‍💼 Hosted by:
 **Tata iQ x Geldium**  
